@@ -1,0 +1,8 @@
+br\com\trabalho_topicos2\api\Oferta\OfertaResource.class
+br\com\trabalho_topicos2\api\categoria\Categoria.class
+br\com\trabalho_topicos2\api\empresa\Empresa.class
+br\com\trabalho_topicos2\api\NewCrossOriginResourceSharingFilter.class
+br\com\trabalho_topicos2\api\categoria\CategoriaResource.class
+br\com\trabalho_topicos2\api\JAXRSConfiguration.class
+br\com\trabalho_topicos2\api\Oferta\Oferta.class
+br\com\trabalho_topicos2\api\empresa\EmpresaResource.class
