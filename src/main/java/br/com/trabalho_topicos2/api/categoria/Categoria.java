@@ -18,7 +18,7 @@ public class Categoria implements Serializable {
     @Column(nullable = false)
     private String nome;
     
-    @Column()
+    @Column(columnDefinition = "TEXT")
     private String url_img;
 
     public Categoria() {

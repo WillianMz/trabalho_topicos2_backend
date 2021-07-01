@@ -31,7 +31,7 @@ public class Oferta implements Serializable {
     private String detalhes;
     @Column()
     private String informacoes;
-    @Column()
+    @Column(columnDefinition = "TEXT")
     private String url_img;
     @Column(nullable = false)
     private boolean destaque;
